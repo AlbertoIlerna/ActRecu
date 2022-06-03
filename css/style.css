@@ -44,5 +44,11 @@ div{
 
 img{
    width: 100%;
-   
+    
+
+
+}
+
+img:hover{
+    transform: scale(1.1);
 }
